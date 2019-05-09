@@ -52,4 +52,4 @@ int main()
     std::cout<< "karta zablokowana";
 
     return 0;
-}
+}//stas jest zajebisty 
